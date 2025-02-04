@@ -42,3 +42,11 @@ At Movie Verse, we believe movies are more than just entertainment – they’re
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Hosting:** Vercel
+
+## 🚀 Installation Guide
+
+### **1. Clone the Repository**
+
+```bash
+ git clone https://github.com/your-username/task-hive-client.git
+```
